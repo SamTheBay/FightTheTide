@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubblePop", "BubblePop\BubblePop\BubblePop.csproj", "{803F76F2-CF81-40F1-9096-18AC3DD295DC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BubblePopContent", "BubblePop\BubblePopContent\BubblePopContent.contentproj", "{03992866-8670-453D-9BE1-7F64ADB68B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{803F76F2-CF81-40F1-9096-18AC3DD295DC}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{03992866-8670-453D-9BE1-7F64ADB68B31}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{03992866-8670-453D-9BE1-7F64ADB68B31}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
